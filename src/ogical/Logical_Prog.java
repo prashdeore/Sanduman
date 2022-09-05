@@ -15,5 +15,5 @@ public class Logical_Prog {
 			  n2=n3;    
 			 }    
 			 } }
-
+// Jaggu ja zop tu
  
